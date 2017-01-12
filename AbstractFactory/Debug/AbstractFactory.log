@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AbstractFactory.cpp
+c:\users\craig\desktop\patterns\abstractfactory\abstractfactory.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AbstractFactory.vcxproj -> C:\Users\craig\Desktop\Patterns\AbstractFactory\Debug\AbstractFactory.exe
+  AbstractFactory.vcxproj -> C:\Users\craig\Desktop\Patterns\AbstractFactory\Debug\AbstractFactory.pdb (Full PDB)
